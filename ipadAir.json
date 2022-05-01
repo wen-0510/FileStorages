@@ -1,6 +1,6 @@
 [
-    { "id":"A001", "color": "太空灰色",  "price": 17900, "storage":"64GB", "network": "Wi-Fi", "picture":"https://raw.githubusercontent.com/wen-0510/FileStorages/main/gray.png" },
-    { "id":"A002", "color": "粉紅色",  "price": 17900, "storage":"64GB", "network": "Wi-Fi", "picture":"https://raw.githubusercontent.com/wen-0510/FileStorages/main/pink.jpeg" },
+    { "id":"A001", "color": "太空灰色",  "price": 17900, "storage":"64GB", "network": "Wi-Fi", "picture":"gray.png" },
+    { "id":"A002", "color": "粉紅色",  "price": 17900, "storage":"64GB", "network": "Wi-Fi", "picture":"pink.png" },
     { "id":"A003", "color": "紫色",  "price": 17900, "storage":"64GB", "network": "Wi-Fi", "picture":"purple.png" },
     { "id":"A004", "color": "藍色",  "price": 17900, "storage":"64GB", "network": "Wi-Fi", "picture":"blue.png" },
     { "id":"A005", "color": "星光色",  "price": 17900, "storage":"64GB", "network": "Wi-Fi", "picture":"starlight.png" },
