@@ -1,5 +1,5 @@
 [
-    { "id":"A001", "color": "太空灰色",  "price": 18900, "storage":"64GB", "network": "Wi-Fi", "picture":"gray.png" },
+    { "id":"A001", "color": "太空灰色",  "price": 18900, "storage":"64GB", "network": "Wi-Fi", "picture":"https://raw.githubusercontent.com/wen-0510/FileStorages/main/gray.png" },
     { "id":"A002", "color": "銀色",  "price": 18900, "storage":"64GB", "network": "Wi-Fi", "picture":"silver.png" },
     { "id":"A003", "color": "玫瑰金色",  "price": 18900, "storage":"64GB", "network": "Wi-Fi", "picture":"rose.png" },
     { "id":"A004", "color": "綠色",  "price": 18900, "storage":"64GB", "network": "Wi-Fi", "picture":"green.png" },
